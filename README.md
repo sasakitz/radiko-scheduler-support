@@ -2,7 +2,7 @@
 
 Radikoの番組表から番組を予約し、放送時間にライブ再生するデスクトップ向けブラウザ拡張です。番組表を使わない時刻固定予約や、Googleカレンダーの予定からの再生にも対応しています。radikoおよびGoogleの公式拡張機能ではありません。
 
-[プライバシーポリシー](PRIVACY.md) / [お問い合わせ・不具合報告](https://github.com/sasakitz/radiko-scheduler-support/issues) / [ソースコード](https://github.com/sasakitz/radiko-scheduler)
+[プライバシーポリシー](PRIVACY.md) / [お問い合わせ・不具合報告](https://github.com/sasakitz/radiko-scheduler-support/issues)
 
 ## インストール
 
@@ -109,4 +109,4 @@ PCのスリープ中やブラウザ終了中は動作しません。復帰時に
 
 予約はブラウザの同期ストレージに保存します。カレンダーの非公開URL、未取り込みの予定、再生設定、通知設定と履歴は端末内に保存します。カレンダーURLはGoogleから予定を取得するために使用し、開発者のサーバーへ送信しません。非公開URLやアカウント情報を他人に共有しないでください。詳しくは[プライバシーポリシー](PRIVACY.md)をご覧ください。
 
-不具合や質問は[GitHub Issues](https://github.com/sasakitz/radiko-scheduler-support/issues)で受け付けています。投稿は公開されます。カレンダーの非公開URL、ログイン情報、個人情報を含む予定を記載しないでください。ソースコードとライセンスは[本体リポジトリ](https://github.com/sasakitz/radiko-scheduler)にあります。
+不具合や質問は[GitHub Issues](https://github.com/sasakitz/radiko-scheduler-support/issues)で受け付けています。投稿は公開されます。カレンダーの非公開URL、ログイン情報、個人情報を含む予定を記載しないでください。
