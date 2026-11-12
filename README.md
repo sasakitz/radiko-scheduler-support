@@ -6,8 +6,8 @@ Googleカレンダーの番組予定に合わせてradikoのライブ放送を�
 
 ## インストール
 
-[![Chrome Web Store から Chrome / Edge にインストール](assets/install-chrome-web-store.svg)](https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc)
-[![Firefox Add-ons から Firefox にインストール](assets/install-firefox-addons.svg)](https://addons.mozilla.org/ja/firefox/addon/%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93-radiko-scheduler/)
+<a href="https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc"><img src="https://developer.chrome.com/static/docs/webstore/branding/image/UV4C4ybeBTsZt43U4xis.png" alt="Chrome Web Store で入手" width="172"></a>
+<a href="https://addons.mozilla.org/ja/firefox/addon/%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93-radiko-scheduler/"><img src="https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png" alt="Firefox Add-ons で入手" width="172"></a>
 
 Chrome / Edge版は [Chrome Web Store](https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc) で公開しています。Chrome 120以降が対象です。EdgeでもChrome Web Storeからインストールできます。
 
