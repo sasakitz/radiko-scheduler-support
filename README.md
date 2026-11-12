@@ -6,15 +6,18 @@ Googleカレンダーの番組予定に合わせてradikoのライブ放送を�
 
 ## インストール
 
-Chrome版は [Chrome Web Store](https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc) で公開しています。Chrome 120以降が対象です。EdgeでもChrome Web Storeからインストールできます。
+[![Chrome Web Store から Chrome / Edge にインストール](assets/install-chrome-web-store.svg)](https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc)
+[![Firefox Add-ons から Firefox にインストール](assets/install-firefox-addons.svg)](https://addons.mozilla.org/ja/firefox/addon/%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93-radiko-scheduler/)
 
-Firefox版はデスクトップ版Firefox 140以降に対応しています。Firefox Add-ons（AMO）の公開URLは、このページではまだ案内していません。通常のFirefoxに継続してインストールするには、Mozillaによる署名済みアドオンが必要です。開発用の一時インストール手順は [本体リポジトリ](https://github.com/sasakitz/radiko-scheduler#readme) を参照してください。一時的なアドオンはFirefoxの再起動で削除されます。
+Chrome / Edge版は [Chrome Web Store](https://chromewebstore.google.com/detail/jjhpohehcgnaljoaglniejlkklflaegc) で公開しています。Chrome 120以降が対象です。EdgeでもChrome Web Storeからインストールできます。
+
+Firefox版は [Firefox Add-ons（AMO）](https://addons.mozilla.org/ja/firefox/addon/%E3%83%A9%E3%82%B8%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93-radiko-scheduler/) で公開しています。デスクトップ版Firefox 140以降が対象です。開発用の一時インストール手順は [本体リポジトリ](https://github.com/sasakitz/radiko-scheduler#readme) を参照してください。一時的なアドオンはFirefoxの再起動で削除されます。
 
 インストール後、拡張のポップアップから「設定」を開いてカレンダーを接続してください。ツールバーに拡張を固定すると操作しやすくなります。
 
 Firefox版では、インストール時にGoogleカレンダーの非公開URLとradikoの認証セッションに関するデータ利用への同意をFirefox標準画面で求めます。送信先はGoogleとradikoで、開発者への送信はありません。自動再生がブロックされる場合は、Firefoxの設定 → プライバシーとセキュリティ → 自動再生で音声の自動再生を許可し、再試行してください。
 
-この案内は0.2.2の機能を含みます。遅延調整は0.2.2以降で利用できます。インストール済みのバージョンは各ブラウザの拡張機能管理画面で確認してください。
+インストール済みのバージョンは各ブラウザの拡張機能管理画面で確認してください。
 
 ## カレンダーを接続
 
